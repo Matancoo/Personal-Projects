@@ -1,11 +1,5 @@
 ### AutoRegressive
--- AutoRegressive/
-   |-- model/
-   |-- minGPT/
-   |-- bpe.py
-   |-- ar_tasks.py
-   |-- example_gpt.py
-   |-- alice_in_wonderland.txt
+
    
 The `AutoRegressive` folder contains everything needed to train and run autoregressive models. The notable files and folders in this directory are:
 
@@ -19,3 +13,7 @@ The `AutoRegressive` folder contains everything needed to train and run autoregr
 - `ar_tasks.py`: Defines autoregressive tasks for the model to perform.
 - `example_gpt.py`: script showing how to train and run the GPT model.
 - `alice_in_wonderland.txt`: text file used for training.
+
+###TODO:
+README minGPT
+ADD TO CODE PDF DISCRIPTION
